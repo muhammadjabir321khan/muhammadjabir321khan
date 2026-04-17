@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 💻 Full Stack Developer (Laravel + Vue + React)  
-🏢 Working at Xint Solutions  
+🏢 Working at Carpe diem  
 🌍 Based in Pakistan 🇵🇰  
 ⚡ Passionate about clean architecture, APIs & performance  
 
