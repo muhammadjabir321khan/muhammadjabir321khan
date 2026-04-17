@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Muhammad+Jabir;Full+Stack+Laravel+%7C+Vue+Developer;Clean+Code+%7C+Scalable+Apps+%7C+API+Expert" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Muhammad+Jabir;Full+Stack+Laravel+%7C+Vue+Developer;Clean+Code+%7C+Scalable+Apps+%7C+API+Expert" />
 </h1>
 
 <p align="center">
