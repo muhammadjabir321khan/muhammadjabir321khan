@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Muhammad+Jabir+👋;Full+Stack+PHP+%7C+Laravel+Developer;Vue.js+%7C+React+%7C+API+Development;Clean+%26+Scalable+Code+Always!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Muhammad+Jabir+👋;Full+Stack+PHP+%7C+Laravel+Developer;Vue.js+%7C+React+%7C+API+Development;Clean+%26+Scalable+Code+Always!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -30,7 +30,7 @@ class MuhammadJabir {
         ];
     }
 }
-```
+` ` `
 
 ---
 
@@ -101,3 +101,16 @@ class MuhammadJabir {
 <p align="center">
   <i>⚡ "First, solve the problem. Then, write the code." — Muhammad Jabir</i>
 </p>
+```
+
+> **Note:** In the code block above I added spaces in the closing triple backticks (` ` ` `) just to avoid rendering issues here in chat. In your actual `README.md` file, use normal closing triple backticks ` ``` ` with no spaces.
+
+---
+
+**The only change from your original** is line 2 — the image URL domain:
+
+| Before (broken) | After (fixed) |
+|---|---|
+| `readme-typing-svg.herokuapp.com` | `readme-typing-svg.demolab.com` |
+
+Paste this into your `README.md` file on GitHub and the animated typing header will work correctly again.
