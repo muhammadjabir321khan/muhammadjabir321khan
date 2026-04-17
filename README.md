@@ -15,15 +15,17 @@
 <?php
 
 class MuhammadJabir {
-    public string $name     = "Muhammad Jaber";
+    public string $name     = "Muhammad Jabir";
     public string $role     = "Full Stack Developer";
+    public string $company  = "Xint Solutions";
+    public string $location = "Lahore, Pakistan 🇵🇰";
     public array  $stack    = ["PHP", "Laravel", "Vue.js", "React", "Node.js"];
     public string $focus    = "Clean & Scalable Code | Open to Opportunities";
     public string $learning = "Advanced React & Vue Patterns";
 
     public function contact(): array {
         return [
-            "linkedin" => "[https://www.linkedin.com/in/muhammad-jaber-356169245](https://www.linkedin.com/in/muhammad-jaber-356169245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)",
+            "linkedin" => "https://www.linkedin.com/in/muhammad-jaber-356169245",
             "github"   => "https://github.com/muhammadjabir321khan",
         ];
     }
@@ -58,6 +60,7 @@ class MuhammadJabir {
 
 ---
 
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammadjabir321khan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
@@ -70,6 +73,7 @@ class MuhammadJabir {
 
 ---
 
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=muhammadjabir321khan&theme=darkhub&no-frame=true&column=4&margin-w=10" />
@@ -77,6 +81,7 @@ class MuhammadJabir {
 
 ---
 
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-jaber-356169245">
@@ -96,4 +101,3 @@ class MuhammadJabir {
 <p align="center">
   <i>⚡ "First, solve the problem. Then, write the code." — Muhammad Jabir</i>
 </p>
--->
